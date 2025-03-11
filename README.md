@@ -3,7 +3,7 @@
 I'm Longping, a third-year PhD student at Georgia Tech, specializing in Protein O-GlcNAcylation in glycoproteomics.
 
 ## 🔬 Research Interests  
-- Investigating **Protein O-GlcNAcylation** and its role in regulation cell events.  
+- Investigating **Protein O-GlcNAcylation** and its role in regulating various cellular events.  
 - Exploring insights from glycoproteomic data using **R** and **Python**
 
 ## 📚 Learning & Skills  
@@ -13,7 +13,6 @@ I'm Longping, a third-year PhD student at Georgia Tech, specializing in Protein 
 ## 📬 Get in Touch  
 - **Email**: [lpfu46@gatech.edu](mailto:lpfu46@gatech.edu)  
 - Open to discussions and collaborations—feel free to reach out!
-
 
 ## ⚡ Fun Fact  
 I enjoy **reading** and **exercising** in my free time!  
