@@ -1,35 +1,29 @@
-## Hi there 👋
+# Hi, I'm Longping Fu 👋
 
-I'm Longping, a third-year PhD student at Georgia Tech, specializing in Protein O-GlcNAcylation in glycoproteomics.
+**PhD candidate in Chemistry — Georgia Tech (Wu Lab)**
+Mass-spectrometry-based glycoproteomics.
 
-## 🔬 Research Interests  
-- Investigating **Protein O-GlcNAcylation** and its role in regulating various cellular events.  
-- Exploring insights from glycoproteomic data using **R** and **Python**
+I develop methods and computational tools to study protein glycosylation — how **O-GlcNAcylation** and **N-glycosylation** are regulated and how they reshape cellular signaling.
 
-## 📚 Learning & Skills  
-- Developing expertise in data analysis and visualization for glycoproteomics.
-- Experimenting with various computational tools and packages in **R** and **Python**
+## 🔬 Research interests
+- Site-specific quantification of protein **O-GlcNAcylation** and intact **N-glycopeptides**
+- Chemical enrichment and multiplexed (TMT) quantitative glycoproteomics
+- Computational analysis and visualization of glycoproteomic data in **R** and **Python**
 
-## 📬 Get in Touch  
-- **Email**: [lpfu46@gatech.edu](mailto:lpfu46@gatech.edu)  
-- Open to discussions and collaborations—feel free to reach out!
+## 📄 Publications
+- **Fu, L.**; Yin, K.; Xu, X.; Wu, R. *Systematic Quantification of Protein O-GlcNAcylation Reveals Common and Cell-Type-Specific Responses to N-Glycosylation Inhibition in Human Cells.* **Anal. Chem.** 2026, 98, 15689–15699. [DOI](https://doi.org/10.1021/acs.analchem.6c00972) · [code](https://github.com/lfu46/OGlycoTM)
+- **Fu, L.**; Xu, X.; Wu, R. *Mass Spectrometry-Based Proteomics Methods for Systematic Identification and Quantification of Protein O-Glycosylation in Complex Biological Samples* (Review). **J. Am. Soc. Mass Spectrom.** 2026, 37, 1041–1063. [DOI](https://doi.org/10.1021/jasms.6c00005)
 
-## ⚡ Fun Fact  
-I enjoy **reading** and **exercising** in my free time!  
+## 🧰 Open-source tools
+- [**mzml-utils**](https://github.com/lfu46/mzml-utils) — mzML processing, fragment-ion calculation, and peak matching
+- [**GlycoSpectrumAnnotator**](https://github.com/lfu46/GlycoSpectrumAnnotator) — glycopeptide MS/MS annotation (EThcD support, false-match-rate)
+- [**Glycoproteomic Data Analysis in R & Python**](https://github.com/lfu46/Glycoproteomic-Data-Analysis-using-R-and-Python) — tutorials
 
-Looking forward to connecting and exchanging ideas! 🚀  
+## 🛠️ Tech
+R · Python · MSFragger / FragPipe · O-Pair Search · TMT quantitative proteomics
 
-<!--
-**lfu46/lfu46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📬 Get in touch
+- 📧 [lpfu46@gatech.edu](mailto:lpfu46@gatech.edu)
+- 🔗 [ORCID](https://orcid.org/0009-0006-4275-3264)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Fun fact: I enjoy **reading** and **exercising** in my free time. Always open to discussions and collaborations — feel free to reach out! 🚀
