@@ -19,8 +19,11 @@ I develop methods and computational tools to study protein glycosylation — how
 - [**GlycoSpectrumAnnotator**](https://github.com/lfu46/GlycoSpectrumAnnotator) — glycopeptide MS/MS annotation (EThcD support, false-match-rate)
 - [**Glycoproteomic Data Analysis in R & Python**](https://github.com/lfu46/Glycoproteomic-Data-Analysis-using-R-and-Python) — tutorials
 
+## 🤖 Claude Code skills
+I build [Claude Code](https://www.claude.com/product/claude-code) skills and slash-commands that automate my glycoproteomics research — glycopeptide MS/MS spectrum annotation, quantitative (TMT) data analysis, and literature study — packaged as an installable agent toolkit for the lab. *(Available on request.)*
+
 ## 🛠️ Tech
-R · Python · MSFragger / FragPipe · O-Pair Search · TMT quantitative proteomics
+R · Python · MSFragger / FragPipe · O-Pair Search · TMT quantitative proteomics · Claude Code (agentic AI)
 
 ## 📬 Get in touch
 - 📧 [lpfu46@gatech.edu](mailto:lpfu46@gatech.edu)
