@@ -1,15 +1,15 @@
 # Hi, I'm Longping Fu 👋
 
 **PhD candidate in Chemistry — Georgia Tech (Wu Lab)**
-Chemical biology & quantitative mass spectrometry.
+Chemical biology & quantitative proteomics.
 
-I study how the **post-translational modification landscape** shapes cellular signaling and immune recognition. Protein glycosylation is my entry point — the hardest, most information-dense class of modifications to measure — and I build site-specific, quantitative MS methods to decode it, following the biology beyond any single modification when the question demands it.
+I study how **protein modifications** shape biological processes such as cellular signaling and immune recognition. Protein glycosylation is my starting point — one of the most common and important modifications — and I build site-specific, quantitative MS methods to analyze it, integrating complementary approaches (biological assays, bioinformatics) for deeper insight into these modifications.
 
 ## 🔬 Research interests
-- How coordinated modification programs (**glycosylation** and beyond) encode immune recognition and immune evasion
-- Site-specific, intact-**glycopeptide** and **O-GlcNAc** analysis as a high-resolution readout of cell-surface and signaling state
-- Chemical enrichment and multiplexed (TMT) quantitative chemical proteomics
-- Turning hard analytical measurements into biological frameworks — computation, visualization, and ML in **R** and **Python**
+- Site-specific **glycopeptide** analysis across different biological models
+- Chemical and enzymatic method development for proteomics
+- Analytical instrumentation — including mass spectrometry — for deeper chemical and biological insight
+- New tools and concepts to push the boundaries of human knowledge
 
 ## 📄 Publications
 - **Fu, L.**; Yin, K.; Xu, X.; Wu, R. *Systematic Quantification of Protein O-GlcNAcylation Reveals Common and Cell-Type-Specific Responses to N-Glycosylation Inhibition in Human Cells.* **Anal. Chem.** 2026, 98, 15689–15699. [DOI](https://doi.org/10.1021/acs.analchem.6c00972) · [code](https://github.com/lfu46/OGlycoTM)
@@ -23,8 +23,8 @@ I study how the **post-translational modification landscape** shapes cellular si
 ## 🤖 Claude Code skills
 - I build [Claude Code](https://www.claude.com/product/claude-code) skills and slash-commands that automate my glycoproteomics research — glycopeptide MS/MS spectrum annotation, quantitative (TMT) data analysis, and literature study — packaged as an installable agent toolkit for the lab. *(Available on request.)*
 
-## 🛠️ Tech
-R · Python · MSFragger / FragPipe · O-Pair Search · TMT quantitative proteomics · Claude Code (agentic AI)
+## 🛠️ Skills
+Chemical biology · MS-based proteomics · Scientific programming (R & Python) · Agentic AI
 
 ## 📬 Get in touch
 - 📧 [lpfu46@gatech.edu](mailto:lpfu46@gatech.edu)
