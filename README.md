@@ -1,14 +1,15 @@
 # Hi, I'm Longping Fu 👋
 
 **PhD candidate in Chemistry — Georgia Tech (Wu Lab)**
-Mass-spectrometry-based glycoproteomics.
+Chemical biology & quantitative mass spectrometry.
 
-I develop methods and computational tools to study protein glycosylation — how **O-GlcNAcylation** and **N-glycosylation** are regulated and how they reshape cellular signaling.
+I study how the **post-translational modification landscape** shapes cellular signaling and immune recognition. Protein glycosylation is my entry point — the hardest, most information-dense class of modifications to measure — and I build site-specific, quantitative MS methods to decode it, following the biology beyond any single modification when the question demands it.
 
 ## 🔬 Research interests
-- Site-specific quantification of protein **O-GlcNAcylation** and intact **N-glycopeptides**
-- Chemical enrichment and multiplexed (TMT) quantitative glycoproteomics
-- Computational analysis and visualization of glycoproteomic data in **R** and **Python**
+- How coordinated modification programs (**glycosylation** and beyond) encode immune recognition and immune evasion
+- Site-specific, intact-**glycopeptide** and **O-GlcNAc** analysis as a high-resolution readout of cell-surface and signaling state
+- Chemical enrichment and multiplexed (TMT) quantitative chemical proteomics
+- Turning hard analytical measurements into biological frameworks — computation, visualization, and ML in **R** and **Python**
 
 ## 📄 Publications
 - **Fu, L.**; Yin, K.; Xu, X.; Wu, R. *Systematic Quantification of Protein O-GlcNAcylation Reveals Common and Cell-Type-Specific Responses to N-Glycosylation Inhibition in Human Cells.* **Anal. Chem.** 2026, 98, 15689–15699. [DOI](https://doi.org/10.1021/acs.analchem.6c00972) · [code](https://github.com/lfu46/OGlycoTM)
