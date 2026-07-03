@@ -3,7 +3,7 @@
 **PhD candidate in Chemistry — Georgia Tech (Wu Lab)**
 Chemical biology & quantitative proteomics.
 
-I study how **protein modifications** shape biological processes such as cellular signaling and immune recognition. Protein glycosylation is my starting point — one of the most common and important modifications — and I build site-specific, quantitative MS methods to analyze it, integrating complementary approaches (biological assays, bioinformatics) for deeper insight into these modifications.
+I study how **protein modifications** shape biological processes such as cellular signaling and immune recognition. Protein glycosylation is my starting point — one of the most common and important modifications — and I build site-specific, quantitative MS methods to analyze it, integrating complementary approaches for deeper insight into these modifications.
 
 ## 🔬 Research interests
 - Site-specific **glycopeptide** analysis across different biological models
