@@ -12,7 +12,7 @@ I study how **protein modifications** shape biological processes such as cellula
 - New tools and concepts to push the boundaries of human knowledge
 
 ## 📄 Publications
-- **Fu, L.**; Yin, K.; Xu, X.; Wu, R. *Systematic Quantification of Protein O-GlcNAcylation Reveals Common and Cell-Type-Specific Responses to N-Glycosylation Inhibition in Human Cells.* **Anal. Chem.** 2026, 98, 15689–15699. [DOI](https://doi.org/10.1021/acs.analchem.6c00972) · [code](https://github.com/lfu46/OGlycoTM)
+- **Fu, L.**; Yin, K.; Xu, X.; Wu, R. *Systematic Quantification of Protein O-GlcNAcylation Reveals Common and Cell-Type-Specific Responses to N-Glycosylation Inhibition in Human Cells.* **Anal. Chem.** 2026, 98, 15689–15699. [DOI](https://doi.org/10.1021/acs.analchem.6c00972) · [code](https://github.com/lfu46/OGlycoTM) · [interactive data browser](https://lfu46.github.io/OGlycoTM/)
 - **Fu, L.**; Xu, X.; Wu, R. *Mass Spectrometry-Based Proteomics Methods for Systematic Identification and Quantification of Protein O-Glycosylation in Complex Biological Samples* (Review). **J. Am. Soc. Mass Spectrom.** 2026, 37, 1041–1063. [DOI](https://doi.org/10.1021/jasms.6c00005)
 
 ## 🧰 Open-source tools
@@ -28,6 +28,7 @@ Chemical biology · MS-based proteomics · Scientific programming (R & Python) �
 
 ## 📬 Get in touch
 - 📧 [lpfu46@gatech.edu](mailto:lpfu46@gatech.edu)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/longping-fu-68b857270/)
 - 🔗 [ORCID](https://orcid.org/0009-0006-4275-3264)
 
 ⚡ Fun fact: I enjoy **reading** and **exercising** in my free time. Always open to discussions and collaborations — feel free to reach out! 🚀
