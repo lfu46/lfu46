@@ -31,4 +31,6 @@ Chemical biology · MS-based proteomics · Scientific programming (R & Python) �
 - 🔗 [LinkedIn](https://www.linkedin.com/in/longping-fu-68b857270/)
 - 🔗 [ORCID](https://orcid.org/0009-0006-4275-3264)
 
-⚡ Fun fact: I enjoy **reading** and **exercising** in my free time. Always open to discussions and collaborations — feel free to reach out! 🚀
+## ⚡ Fun fact
+- 📖 I enjoy **reading** and **exercising** in my free time
+- 🤝 Always open to discussions and collaborations — feel free to reach out! 🚀
