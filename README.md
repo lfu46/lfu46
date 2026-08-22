@@ -19,6 +19,7 @@ I study how **protein modifications** shape biological processes such as cellula
 ## 🧰 Open-source tools
 - [**mzml-utils**](https://github.com/lfu46/mzml-utils) — mzML processing, fragment-ion calculation, and peak matching
 - [**GlycoSpectrumAnnotator**](https://github.com/lfu46/GlycoSpectrumAnnotator) — glycopeptide MS/MS annotation (EThcD support, false-match-rate)
+- [**wu-lab-r**](https://github.com/lfu46/wu-lab-r) — shared R helpers: TMT normalization (SL + TMM), limma differential expression, figure theming
 - [**Glycoproteomic Data Analysis in R & Python**](https://github.com/lfu46/Glycoproteomic-Data-Analysis-using-R-and-Python) — tutorials
 
 ## 🤖 Claude Code skills
